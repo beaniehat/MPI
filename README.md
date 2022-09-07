@@ -7,4 +7,4 @@ Tous les fichiers sont mis à jour en temps réel. Une latence peut avoir lieu d
 
 Deux versions de chaque cours sont disponibles : une version sombre, adaptée à la lecture sur ordinateur ou téléphone, et une version claire, adaptée à l'impression. La seule différence entre les deux est la mise en page.
 
-Les decks Anki sont directement importables dans votre collection. Ils ne sont pas exhaustifs.
+N'hésitez surtout pas à m'informer des coquilles et des oublis, soit personnellement, soit à mon adresse mail, que vous trouverez directement en deuxième page de mes PDFs.
