@@ -1,12 +1,10 @@
 # MPI
 L'intégralité de mes cours de MPI, organisés par matière.
 
-Tous les fichiers sont mis à jour en temps réel. Une latence peut avoir lieu du fait de votre connection.
+Tous les fichiers sont mis à jour tous les soirs.
 
 > Pour les fichiers protégés, demandez-moi le mot de passe personellement, ou à [mon nom d'utilisateur sans les trois dernières lettres][le caractère spécial dans toutes les adresses mail][la chaîne de caractères "tuta"][un point, pas de piège][la lune ayant l'orbite la plus proche de Jupiter].
 
 Deux versions de chaque cours sont disponibles : une version sombre, adaptée à la lecture sur ordinateur ou téléphone, et une version claire, adaptée à l'impression. La seule différence entre les deux est la mise en page.
 
 N'hésitez surtout pas à m'informer des coquilles et des oublis, soit personnellement, soit à mon adresse mail, que vous trouverez directement en deuxième page de mes PDFs.
-
-> En raisons de tentative de violations de droits d'auteur, mes cours ne seront plus ici jusqu'à nouvel ordre.
