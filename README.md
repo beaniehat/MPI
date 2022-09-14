@@ -1,5 +1,5 @@
-# MPI
-L'intégralité de mes cours de MPI, organisés par matière.
+# MPI*
+L'intégralité de mes cours de MPI*, organisés par matière.
 
 Tous les fichiers sont mis à jour tous les soirs.
 
