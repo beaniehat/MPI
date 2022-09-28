@@ -1,7 +1,7 @@
 # MPI*
 L'intégralité de mes cours de MPI*, organisés par matière.
 
-Tous les fichiers sont mis à jour tous les soirs.
+Les fichiers sont mis à jour quand je n'oublie pas.
 
 > Pour les fichiers protégés, demandez-moi le mot de passe personellement, ou à [mon nom d'utilisateur sans les trois dernières lettres][le caractère spécial dans toutes les adresses mail][la chaîne de caractères "tuta"][un point, pas de piège][la lune ayant l'orbite la plus proche de Jupiter].
 
